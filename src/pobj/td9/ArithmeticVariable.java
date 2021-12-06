@@ -1,3 +1,5 @@
+package pobj.td9;
+
 public class ArithmeticVariable extends ObservableVariable<Integer> {
 
     ArithmeticVariable(Integer value) {

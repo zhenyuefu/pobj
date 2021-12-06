@@ -1,5 +1,5 @@
 package pobj.td10;
 
 public interface ICommand {
-    boolean execute();
+    boolean execute(IRobot robot);
 }

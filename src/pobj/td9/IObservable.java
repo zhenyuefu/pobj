@@ -1,3 +1,5 @@
+package pobj.td9;
+
 import java.util.Collection;
 
 public interface IObservable<T> {

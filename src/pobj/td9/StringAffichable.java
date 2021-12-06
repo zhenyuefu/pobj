@@ -1,3 +1,5 @@
+package pobj.td9;
+
 public class StringAffichable extends ObservableVariable<String> {
 
     private int version = 0;

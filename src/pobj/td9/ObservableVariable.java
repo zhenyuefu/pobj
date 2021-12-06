@@ -1,3 +1,5 @@
+package pobj.td9;
+
 public class ObservableVariable<T> extends AbstractObservable<T> {
     protected T value;
     protected IObserver<T> listener;
